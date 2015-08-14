@@ -8,6 +8,9 @@ This module also supports suexec. If its enabled it will set the UID/GID to the 
 
 This module does not use IP address configuration options available in mod_vhost_alias.
 
+## Status
+
+This code hasn't been updated or used in production for some time, but did run on load balanced web servers servers that hosted over 80k websites without any problems.
 
 ## Installation
 
