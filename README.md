@@ -10,7 +10,7 @@ This module does not use IP address configuration options available in mod_vhost
 
 ## Status
 
-This code hasn't been updated or used in production for some time, but did run on load balanced web servers servers that hosted over 80k websites without any problems.
+This code hasn't been updated or used in production for some time, but did run on load balanced web servers that hosted over 80k websites without any problems.
 
 ## Installation
 
